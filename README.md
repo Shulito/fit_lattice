@@ -1,2 +1,2 @@
-# fit_lattice
+# Fit Lattice
 Blender addon to fit a lattice onto an object
